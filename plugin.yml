@@ -1,0 +1,7 @@
+name: TestSpells
+main: me.BenLoe.TestSpells.Main
+version: 1.0
+description: >
+             Spells
+commands:
+
